@@ -22,6 +22,6 @@ Who’s using my projects:
 - [Phoenix Framework](https://phoenixframework.org/): A productive web framework that does not compromise speed or maintainability.
 - [BEM](https://getbem.com/): Methodology that helps you to create reusable components.
 
-If you or your company use any of my projects or like what I’m doing, please consider sponsoring me so I can continue maintaining and evolving all my projects and new ones.
+If you or your company use any of my projects or like what I’m doing, please consider [sponsoring me](https://www.patreon.com/cjpatoilo/) so I can continue maintaining and evolving all my projects and new ones.
 
 Thanks for the support! 🙏🏻
