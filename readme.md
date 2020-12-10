@@ -1,6 +1,6 @@
 Hi there,
 
-I’m CJ Patoilo and over the years I've contributed to the design and developer communities by creating free open source projects.
+Over the years I've contributed to the design and developer communities by creating free open source projects.
 
 I actively maintain 70+ open source packages which are downloaded million times per month and [all my code is freely accessible on GitHub](https://github.com/cjpatoilo).
 
